@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-    "coin": "academic coin",
-=======
     "coin": "academic",
->>>>>>> aa2f80377b6803e4385684f412f740112e3fa918
     "symbol": "ACA",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 120,
@@ -23,11 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-<<<<<<< HEAD
         "poolAddress": "1MDgzo6QCATM5hVKHM9BCgJ3dULiWJjWNLPqbs5pXgc3Qa1GqqhPziaFK6QmWs8QUJTuuadXvbxuSWmTArRUBDxAGft9zSm",
-=======
-        "poolAddress": "1QD74Nyt9BhRQUVPJJCcfAQzMHhZ3osRD9Ds4E2LXZ981r86f25qJUbCGc7P1HYGUCcVUHR8RSngdatgBZ4EDPngBL4MbjP",
->>>>>>> aa2f80377b6803e4385684f412f740112e3fa918
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -88,11 +80,7 @@
     "blockUnlocker": {
         "enabled": true,
         "interval": 30,
-<<<<<<< HEAD
         "depth": 10,
-=======
-        "depth": 60,
->>>>>>> aa2f80377b6803e4385684f412f740112e3fa918
         "poolFee": 1.5,
         "devDonation": 0.1,
         "coreDevDonation": 0.1
@@ -105,11 +93,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-<<<<<<< HEAD
         "password": "onezero10"
-=======
-        "password": "test"
->>>>>>> aa2f80377b6803e4385684f412f740112e3fa918
     },
 
     "daemon": {
