@@ -93,7 +93,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "onezerobinary"
+        "password": "test"
     },
 
     "daemon": {
@@ -103,7 +103,7 @@
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 8082
+        "port": 19082
     },
 
     "redis": {
