@@ -1,12 +1,12 @@
-var api = "http://poolhost.com:1117";
+var api = "http://35.177.186.38:8117";
 
-var poolHost = "poolhost.com";
+var poolHost = "35.177.186.38";
 
-var irc = "irc.freenode.net/#poolhost";
+var irc = "irc.freenode.net/#academic-pool";
 
-var email = "support@poolhost.com";
+var email = "support@onezerobinary.com";
 
-var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
+var cryptonatorWidget = ["ACA-BTC", "ACA-USD", "ACA-EUR"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
